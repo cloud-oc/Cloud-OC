@@ -8,7 +8,7 @@
     🎮 Anime • Coimc • Games • Novel • Code • Art • Music
 </pre>
 <br><br>
-<img src="https://i.pinimg.com/originals/9f/e6/76/9fe676c5339b6852550693ea678841a9.gif" height="120" />
+<img src="https://i.pinimg.com/originals/27/8e/51/278e51621ed67255ec03de2c1b32db4b.gif" height="100" />
 <br><br><br>
     
 [![](https://img.shields.io/badge/Cloud%3BBlog-white?style=for-the-badge)](https://www.cloud09.xyz/)
