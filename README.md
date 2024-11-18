@@ -8,7 +8,7 @@
     🎮 Anime • Coimc • Games • Novel • Code • Art • Music
 </pre>
 <br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<img src="https://i.pinimg.com/originals/aa/51/bd/aa51bd72926e11f7006369f6d211a668.gif" height="40" />
 <br><br><br>
     
 [![](https://img.shields.io/badge/Cloud%3BBlog-white?style=for-the-badge)](https://www.cloud09.xyz/)
