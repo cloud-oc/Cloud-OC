@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Cloud-OG/Cloud-OG/blob/main/illust_105245901_20241118_214509.jpg?raw=true" width="26%" align="right" />
+<img src="https://github.com/Cloud-OG/Cloud-OG/blob/main/Miku.gif?raw=true" width="26%" align="right" />
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Ciallo (∠·ω )⌒★;I'm+Cloud%2C+a+game+designer%E2%9C%A9" width="70%" />
 <br><br>
 <pre>
