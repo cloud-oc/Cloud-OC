@@ -12,7 +12,6 @@
 </div>
 <br>
 <img src="https://github.com/Cloud-OG/Cloud-OG/blob/main/P.A.I.M.O.N.gif?raw=true" height="90" />
-<br>
     
 [![](https://img.shields.io/badge/Cloud%3BBlog-white?style=for-the-badge)](https://www.cloud09.xyz/)
 <picture>
