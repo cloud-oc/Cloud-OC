@@ -7,6 +7,9 @@
     📖 The Art of Game Design • 1984 • Steve Jobs
     🎮 Anime • Coimc • Games • Novel • Code • Art • Music
 </pre>
+<div>
+<img src="https://count.getloli.com/get/@Cloud-OG.github.readme?theme=nixietube-1" style=" display: block; margin-left: auto; margin-right: auto; height: 160px"/>
+</div>
 <br>
 <img src="https://github.com/Cloud-OG/Cloud-OG/blob/main/P.A.I.M.O.N.gif?raw=true" height="90" />
 <br>
