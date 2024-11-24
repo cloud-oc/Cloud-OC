@@ -4,7 +4,7 @@
 <br><br>
 <pre>
     💻 C/C++ • C# • Unity • AIGC • Graphic Design
-    📖 Data Structure • Computer Organization • Operating System • Computer Network  
+    📖 The Art of Game Design • 1984 • Steve Jobs
     🎮 Anime • Coimc • Games • Novel • Code • Art • Music
 </pre>
 <br><br>
