@@ -12,5 +12,9 @@
 <br><br><br>
     
 [![](https://img.shields.io/badge/Cloud%3BBlog-white?style=for-the-badge)](https://www.cloud09.xyz/)
-![亮色](https://raw.githubusercontent.com/Cloud-OG/Cloud-OG/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cloud-OG/Cloud-OG/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cloud-OG/Cloud-OG/output/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="github-snake" src="https://raw.githubusercontent.com/Cloud-OG/Cloud-OG/output/github-contribution-grid-snake.svg" />
+</picture>
 </div>
