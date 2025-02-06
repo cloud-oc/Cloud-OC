@@ -10,10 +10,8 @@
 <img src="https://github.com/Cloud-OG/Cloud-OG/blob/main/P.A.I.M.O.N.gif?raw=true" height="90" />
     
 [![](https://img.shields.io/badge/Cloud%3BBlog-white?style=for-the-badge)](https://www.cloud09.xyz/)
-<div>
 
 <img src="https://count.getloli.com/get/@Cloud-OG.github.readme?theme=nixietube-1" style=" display: block; margin-left: auto; margin-right: auto; height: 120px"/>
-</div>
 
 <div>
     
