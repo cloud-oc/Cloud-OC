@@ -12,8 +12,7 @@
 [![](https://img.shields.io/badge/Cloud%3BBlog-white?style=for-the-badge)](https://www.cloud09.xyz/)
 <div>
 <img src="https://count.getloli.com/get/@Cloud-OG.github.readme?theme=nixietube-1" style=" display: block; margin-left: auto; margin-right: auto; height: 120px"/>
-</div>
-<div>
+    
 ![暗色](https://github.com/Cloud-OG/Cloud-OG/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![亮色](https://github.com/Cloud-OG/Cloud-OG/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 </div>
