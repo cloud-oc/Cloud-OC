@@ -1,6 +1,5 @@
 <div align="center">
-<img src="https://github.com/Cloud-OC/Cloud-OC/blob/main/Miku.gif?raw=true" width="26%" align="right" />
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ciallo+(%E2%88%A0%C2%B7%CF%89+)%E2%8C%92%E2%98%85;I'm+Cloud;A+college+student+from+China" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Ciallo+(%E2%88%A0%C2%B7%CF%89+)%E2%8C%92%E2%98%85;I'm+Cloud;A+college+student+from+China" alt="Typing SVG" /></a>
 <br>
 <pre>
     Skill: Writing • Unity • AIGC • Game Design
