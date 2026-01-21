@@ -9,7 +9,7 @@
 <br>
 <img src="https://github.com/Cloud-OC/Cloud-OC/blob/main/P.A.I.M.O.N.gif?raw=true" height="90" />
 <br>
-<img src="https://github.com/Cloud-OC/Cloud-OC/blob/main/anilist.svg?raw=true" height="120" />
+<img src="https://github.com/Cloud-OC/Cloud-OC/blob/main/metrics.plugin.anilist.characters.svg?raw=true" height="120" />
 <br>
 <img src="https://count.getloli.com/get/@Cloud-OC.github.readme?theme=nixietube-1" style=" display: block; margin-left: auto; margin-right: auto; height: 120px"/>
 <div>
