@@ -9,7 +9,8 @@
 <br>
 <img src="https://github.com/Cloud-OC/Cloud-OC/blob/main/metrics.plugin.anilist.characters.svg?raw=true" height="120" />
 <br>
-<img src="https://count.getloli.com/get/@Cloud-OC.github.readme?theme=nixietube-1" style=" display: block; margin-left: auto; margin-right: auto"/>
+<img src="https://count.getloli.com/get/@Cloud-OC.github.readme?theme=nixietube-1" style="display: block; margin-left: auto; margin-right: auto;"/>
+<br>
 <div>
     
 ![暗色](https://github.com/Cloud-OC/Cloud-OC/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
