@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://github.com/Cloud-OC/Cloud-OC/blob/main/Miku.gif?raw=true" width="26%" align="right" />
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arimo&size=21&pause=1000&background=BE00FF00&center=true&vCenter=true&width=435&lines=Ciallo%EF%BD%9E(%E2%88%A0%E3%83%BB%CF%89%3C+)%E2%8C%92%E2%98%85!;I'm+Cloud.;A+gamer+from+China." alt="Typing SVG" /></a>
 <br>
 <pre>
