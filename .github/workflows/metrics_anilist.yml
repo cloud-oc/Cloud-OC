@@ -19,7 +19,6 @@ jobs:
           base: ""
           plugin_anilist: yes
           plugin_anilist_user: Cloud09Official
-          plugin_anilist_medias: no
           plugin_anilist_sections: characters
           plugin_anilist_limit: 2
-          plugin_anilist_limit_characters: 36
+          plugin_anilist_limit_characters: 33
