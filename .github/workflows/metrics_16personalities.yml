@@ -18,5 +18,6 @@ jobs:
           filename: metrics.plugin.16personalities.svg
           base: ""
           plugin_16personalities: yes
-          plugin_16personalities_url: https://www.16personalities.com/profiles/80d43033fcca0
-          plugin_16personalities_sections: personality, traits, principles
+          plugin_16personalities_url: ${{ secrets.SIXTEEN_PERSONALITIES_URL }}
+          plugin_16personalities_sections: personality, profile, traits
+          plugin_16personalities_scores: yes
