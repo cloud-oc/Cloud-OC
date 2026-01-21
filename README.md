@@ -7,6 +7,7 @@
 </pre>
 <br>
 <img src="https://github.com/Cloud-OC/Cloud-OC/blob/main/metrics.plugin.anilist.characters.svg?raw=true" height="220" />
+<img src="https://github.com/Cloud-OC/Cloud-OC/blob/main/metrics.plugin.music.spotify.svg?raw=true" height="220" />
 <br>
 <img src="https://count.getloli.com/get/@Cloud-OC.github.readme?theme=nixietube-1" style="display: block; margin-left: auto; margin-right: auto;"/>
 <br>
