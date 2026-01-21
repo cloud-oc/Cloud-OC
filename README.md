@@ -6,7 +6,7 @@
     Hobby: Anime • Coimc • Game • Novel • Art • Music
 </pre>
 <br>
-<img src="https://github.com/Cloud-OC/Cloud-OC/blob/main/metrics.plugin.16personalities.svg?raw=true" height="220" />
+
 <img src="https://github.com/Cloud-OC/Cloud-OC/blob/main/metrics.plugin.anilist.characters.svg?raw=true" height="220" />
 <img src="https://github.com/Cloud-OC/Cloud-OC/blob/main/metrics.plugin.music.spotify.svg?raw=true" height="220" />
 <img src="https://github.com/Cloud-OC/Cloud-OC/blob/main/metrics.plugin.steam.svg?raw=true" height="220" />
