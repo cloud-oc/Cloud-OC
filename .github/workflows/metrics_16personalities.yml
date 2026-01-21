@@ -15,6 +15,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          debug: yes
           filename: metrics.plugin.16personalities.svg
           base: ""
           plugin_16personalities: yes
