@@ -14,11 +14,11 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-          filename: anilist.svg
+          token: NOT_NEEDED
+          filename: metrics.plugin.anilist.characters.svg
           base: ""
-          plugin_anilist: true
+          plugin_anilist: yes
           plugin_anilist_user: Cloud09Official
-          plugin_anilist_sections: favorites characters
+          plugin_anilist_sections: characters
           plugin_anilist_limit: 2
           plugin_anilist_limit_characters: 36
