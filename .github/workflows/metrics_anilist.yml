@@ -6,6 +6,12 @@ on:
   workflow_dispatch:
   # (optional) Run on every push on the master branch
   push: {branches: ["master", "main"]}
+
+# Prevent concurrent runs - wait for previous to complete
+concurrency:
+  group: metrics-commit
+  cancel-in-progress: false
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
