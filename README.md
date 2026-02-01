@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Cloud-OC/Cloud-OC/blob/main/metrics.plugin.posts.full.svg?raw=true" />
+  <img src="https://github.com/Cloud-OC/Cloud-OC/blob/main/metrics.plugin.rss.svg?raw=true" />
 </p>
 
 <p align="center">
