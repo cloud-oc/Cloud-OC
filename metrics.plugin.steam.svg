@@ -22,15 +22,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAABgcDBQIECAD/xAAqEAABBAIBAwMEAgMAAAAAAAABAgMEBQARBgcSITFBURMUImEjMhdCsf/EABkBAQEBAQEBAAAAAAAAAAAAAAMCBAEGB//EACYRAAEDAgUFAAMAAAAAAAAAAAMBBAUAAhESEyJRFCExMkEkQrH/2gAMAwEAAhEDEQA/AObeOUcm7mJZjg635Osc3HuIxKhts9ylOj+3nJODUTdNXq/D+Yk+ThrS1Mi3liPDT3KPqdZ7WOjhtBoUqbvq8V8/lZczw2gD1/tVX0xr19M2YkJ+Y52RkFxXuAMK7vglhUwlSV6UgD8vHphb0eZhqhOlaUGV58H4zW4k7Bt1OLciViaxhSuUbm2qtKmbXSISu2U0pvfzmr2Aj9jHV1fEJmjSpYbD5J7dDzgDxzhlheRUvIIQ2fQkZLSUsKDWLtqnsSUDjQDupc3vGolwytLxUlRHg798TXLeMSaGTpYJZJ8HOmeQUUqllfQlp0n2VrBDldU3b1DzLie5wD8Tgv2AXolKPzzTxsmePMgS+v1OKuQBrtT4Bwz6ZXMWqtF/dKSkKGu44KU8NVjYMxUHRcVrGv8A4yiqrhpwh/t3vfvjSThvYPROuGas8S0c3k6gCY5as+b8uqmaGQhuQ2844jQSMSlbZzIylvw3i0oknQOR2sAwrF6M8tSi2dDZ3kQV6EDwPjOR8dY3GqIuZLquUlCOipdhlW2pbGXPs30uz5JcCT/Unxjr4FyesFI3HdfbZW2PO8R4X53/ANyWKwuVKQwyshTh14Ost7GjcB0/VE70cfKGbH1V3Y9qM+q3I4lrYsRoC0uBtW1KGBOt798bVb0uiCAhbrhMlad7JxachrlVFq5DUfKDvf6wYo7fL04rscKaZbOVv6o1uCXVXU9mutsGZTY/JtW9HGw91drmq4aZWqX26AB98R/1CCT6q9sOuk9FFurhZmpStLYB7TmqWZNyWa5k9eKaJcHDfog/bmhaZPesJ78x8FJcUSARmH1Tj95vxKrXx+S40whlbKNggaxA1tfKsZC2YLK3lJUR+OdjHwXQlW1MEt5o5KMK3Lu75uKy+ofbJoUtcaY0+35U2d+mRWtXOrClE5hxlRP+2O/pxxSuFC3JfaS844Pfzlv3wmgdS7ui9u1GxjCOS5LdqpzWhE6tVzVan7llf3Dada3inuLp27uJE94a7jpKf1hh1koYVRMYkRUpQXTooxcBz8fg+/6zNEsm2HUgx3fOK2Srhyv4psFy/aouM2iLSGpaFbUDhZx68l0ctMmErS0nyPnOfuNXrtRITo/xE+RjXqryFZNpLTgCj6jeJGyQX4dIq7vqc0kgwKyNqDTbzTG5T1IubyAYPZ9FtQ0tQGtjDvoR9kK91JLapfvv1xJgjwrz+95sQ5sqE4XIT62SfXR1iuYgdza4ANuNGCUvtPaU27Cnp1vdr2+PpS8WxJJPb84tOL9Q7Tj8IMNp+s0R4GvTBGdLl2DoVPkOPAem1E5h4GtnXwMllEWjbaDjcnmqdya3uNcHZasuS8gn8ln/AHdkSkJ/qj4weu5ya6tcfUdeM9Y20SvbK5Dg8e28V3LeSuWzpaaOo4zj16CNBpj8/ErrRoaQNqE8fVr/2Q==" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGgABAAMBAQEAAAAAAAAAAAAABgIEBQMHAf/EADEQAAEDAwMCAwYGAwAAAAAAAAEAAgMEBREGEiExUQciQRMjJjJSVBYXU2FzkkJxcv/EABsBAAICAwEAAAAAAAAAAAAAAAQFAwYAAQcC/8QALhEAAQQBAgQDBwUAAAAAAAAAAQACAwQRBSExQVFxBhIiEyNSYaGxwYGi0eHw/9oADAMBAAIRAxEAPwAPpTTlFebUy43Rsj6h7zGAx2OiSjQtnIB9jOQeo3qPhkPhKEgAkzOxlOI2M242kj1IVQt2pfau9R4qB78IQ7Qtm/Sn/uonQtm/Sn/unDg30Cg4N7KJtqX4ih3zInQaHsUrvZvinDv+1fb4eWMnzRVGR0862nDY4PZw4Lbo54542u43BJ9RmtQn2jHnyn58FYdIniuNMTx62/Udf5RD8ubEWj3FS4nqBJ0WBqrQ9robVVV1CyZlZSN3xue/Iz/petjaWnrnujGvzHDpO6OmcI8xcA9XIOlqVsztAeeI5/NHWajGtOAhnho74Tg/mcm7HeVBfDU40nB/M5Nmu8qs1pvvXdyqZNJgqZKg4qJKgSow3AygnyqWeeei+007qabdnydlVkmaHeU5PZRaC529x5+lO6Hh6xqbcEYjPM/gc0M2++rKJYj6m8P7WhctVwUbDHRMM0xHzDoF5tq+sqbhbK+Wslc47OGA4ASW70QiBqIG+T1RPUR3WetcPlLOR6plW0WrojzGxuXfEeJ7dP0XXtNu1tS08W4OJBzniDjcf7iFqeGxxpSEN5987lNGnygE5P7IP4cuDNJQ73bGe2dyUlluWWiOnGR9aUQ6bYv2HMrMyc7nkO5XKrMmHlaEszIhmQ8qk+ofMcDhqpAlxy525dgeOOFetM8K16mJLPvH/tHYc+5S6R5OwVhmAV1DuVWYSujHcqykIQtVgkPY5jvlPCB6whdSW6uYBmJ7OvZOCcg9sI5q9gl09Xh4/wAOClGq022YcjZzdwfwnXh/VpNMsEDdj9nD7HuPsjWipXSadgY9xMQlcQAlkLstx0HoEC01XQ0Fujp6+VtPOx5dsd2K3mXu3Ac10YJ9eyM0+aGOBrWkD6LLETi87JK1wHqph4+oI2L7bvvolIX63ffRIs2IuoQxgceSTh7c9V0a9vdF23+3ffxLoNQW77+JeDYj6hRGu/olAkGOCNg5WFql2bDcjtI93wq/4htvQ3CHH7LJvt5o57XV09PVNnqZ27WMahLM8fkO63DXf5xsv//Z" alt="" />
                             <div class="about">
-                                <div class="name">RPG Developer Bakin</div>
+                                <div class="name">Live2DViewerEX</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Game Development
+                                        Animation &amp; Modeling, Utilities
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -38,7 +38,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        15 hours played
+                                        34 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -46,7 +46,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 31 Jan 2026
+                                        Last played on 1 Feb 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
