@@ -1,0 +1,28 @@
+name: Blog Posts Metrics
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'  # 每天运行一次
+
+jobs:
+  update-posts:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Recent posts with descriptions and cover images
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.posts.full.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_posts: yes
+          plugin_posts_source: rss
+          plugin_posts_limit: 2
+          plugin_posts_descriptions: yes
+          plugin_posts_covers: yes
+          plugin_posts_descriptions_length: 150
+          plugin_posts_user: .user.login
+          config_timezone: Asia/Shanghai
+          extras_rss: https://cloud09.space/rss.xml

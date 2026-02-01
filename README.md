@@ -7,10 +7,18 @@
 </pre>
 <br>
 
-<img src="https://github.com/Cloud-OC/Cloud-OC/blob/main/metrics.plugin.anilist.characters.svg?raw=true" height="220" />
-<img src="https://github.com/Cloud-OC/Cloud-OC/blob/main/metrics.plugin.steam.svg?raw=true" height="220" />
-<br>
-<img src="https://count.getloli.com/get/@Cloud-OC.github.readme?theme=nixietube-1" style="display: block; margin-left: auto; margin-right: auto;"/>
+<p align="center">
+  <img src="https://github.com/Cloud-OC/Cloud-OC/blob/main/metrics.plugin.anilist.characters.svg?raw=true" height="220" />
+  <img src="https://github.com/Cloud-OC/Cloud-OC/blob/main/metrics.plugin.steam.svg?raw=true" height="220" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Cloud-OC/Cloud-OC/blob/main/metrics.plugin.posts.full.svg?raw=true" />
+</p>
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@Cloud-OC.github.readme?theme=nixietube-1" />
+</p>
 <br>
 <div>
     
