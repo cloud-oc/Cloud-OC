@@ -15,9 +15,9 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.rss.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: NOT_NEEDED
           base: ""
           plugin_rss: yes
-          plugin_rss_source: https://cloud09.space/rss/feed.xml
+          plugin_rss_source: https://cloud09.space/rss
           plugin_rss_limit: 6
           config_timezone: Asia/Shanghai
