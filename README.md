@@ -13,10 +13,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Cloud-OC/Cloud-OC/blob/main/metrics.plugin.rss.svg?raw=true" />
-</p>
-
-<p align="center">
   <img src="https://count.getloli.com/get/@Cloud-OC.github.readme?theme=nixietube-1" />
 </p>
 <br>
