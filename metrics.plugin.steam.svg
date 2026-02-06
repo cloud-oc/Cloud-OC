@@ -55,7 +55,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            4 / 10 achievements unlocked
+                                            5 / 10 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABggAAQcE/8QAKRAAAQMDAwMDBQEAAAAAAAAAAQIDBAAFEQYSIQcTMRRBcSIyUmGRof/EABYBAQEBAAAAAAAAAAAAAAAAAAQFBv/EACIRAAEEAQQDAQEAAAAAAAAAAAECAwQRAAYhMVEFYaESkf/aAAwDAQACEQMRAD8ANZkyLBa7s2SxHa/N5wIH9Nc0a9WqVt9Lc4L244GyQhWf9rAuqMgPa7uxdZCvSvIDbr7ZeST2U7WQnwATk/NCzFpU88mK+hprtrSwXVltLaHFncdygAVAD4KfY1gI2lkOsJdW5RIB47F95dd1AUSCwhF71zzvWNtUpctNaouunlKdtAdfjJKluW9ayqMWU5BcbWo5Tkg4A/ho1051EvN41/b7dIhR4tskBaNreXCVdsrB7hABIwOAPep8rTklj9KSQUgE3xx67+e8bH83HeIQdlE1WCfVe3ym9aXSQYE9YkPNFl306nY5R2AlRwPKgfGORihm3W+eoNSIdkfU7HSGUtJgOOB9WfuWSMJJGeeTyaawZHg4+KvJI5JpMfVLjDKWg2D+QBz0K6w0nwDb7inCs7m/7i5WvpxqK5vobdt6oMdSyVyJbhRtQckoDSVEkBRyPH7o209oK6WvqDAuEpxqVBjIdUmWkhK1ko2pStHsfqPKeDjPB86ripRZOo5cgKSaCSCKrv7fz1iY/hIzBSoWVA3Zz//Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>魂兮归来</div>
+                                                <div class="unlocked">6 Feb 2026</div>
+                                            </div>
+                                            <div class="description">完成第四章</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -69,18 +79,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwYEAQX/xAAqEAABAwMDAwMEAwAAAAAAAAABAgMEBQYRAAchEzFREhRBFSJCYTJxkf/EABgBAAIDAAAAAAAAAAAAAAAAAAMEBQYH/8QAJREAAQMDAwQDAQAAAAAAAAAAAQIDIQAREgRBUQUTIqExYrHx/9oADAMBAAIRAxEAPwBu1zWGuz10yky5rUOTOWw2VpjRk+pxw+Ejzoya3JvGZWF0mJYCmp/tvdoal1FLaukVekLIIHGeCAc6x9jRu6gFSLWHJA/SKsC3Eog0tk6gr6rNSh7g2FTKc+tuPPkyFSkJPDjaEA4P6AJOpNncPcSRUarCj2ZTVvUoIMwe9wGvUn1D7irB4GeO3zrz9sK1P3N3NbueZDTChUOEWG20LK0l9zIJBwM5BUcfACf71Is9Nc0+b72JSlJ3BlQ8YB3JBFBU+F2Qm9yf7VPdl5XJV7mnWxtzEjrlwQPfVKUR0o6j+CQeCr/eQeOM6h7Tte67uvitu1a9JiHaLiCZsAYClq+5bSP44SkjnjvjjSpe9FuOO2mobfSIMKal1UiVDXHQEVBRxyteMhWB3yM+Ro6sS4LqsKkfSqtt9V5Trj7sl6XEV1C84tWSSEpI7YHf403pVEaZR0gRlYCbZfYnLbgCLHkUNY8x3L29eqzVXbdNOv2l0mtXFXZtHuLql9fX6ZdloGQHO4UCngZ504W3QaZbdJaptFiNxYbfIQnkqPypRPJJ8nRBdtUvG/m6axRLJnUp2FNbmsz6i8GuktGfxIGQc/vPjSjY9HqtHpTqa/WHatU5Dyn3nTw22SAPQ2n8UDHbzngaU6kt5bCO+4Mh8pBBnY+MCImYojASFnERzX//2Q==" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>父债子偿</div>
-                                                <div class="unlocked">6 Feb 2026</div>
-                                            </div>
-                                            <div class="description">完成第二章</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+2 others...</div>
+                                            <div class="description ellipsis">+3 others...</div>
                                         </div>
                                     </div>
                                 </div>
