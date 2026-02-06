@@ -38,7 +38,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        2 hours played
+                                        3 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -55,32 +55,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            5 / 10 achievements unlocked
+                                            10 / 10 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABggAAQcE/8QAKRAAAQMDAwMDBQEAAAAAAAAAAQIDBAAFEQYSIQcTMRRBcSIyUmGRof/EABYBAQEBAAAAAAAAAAAAAAAAAAQFBv/EACIRAAEEAQQDAQEAAAAAAAAAAAECAwQRAAYhMVEFYaESkf/aAAwDAQACEQMRAD8ANZkyLBa7s2SxHa/N5wIH9Nc0a9WqVt9Lc4L244GyQhWf9rAuqMgPa7uxdZCvSvIDbr7ZeST2U7WQnwATk/NCzFpU88mK+hprtrSwXVltLaHFncdygAVAD4KfY1gI2lkOsJdW5RIB47F95dd1AUSCwhF71zzvWNtUpctNaouunlKdtAdfjJKluW9ayqMWU5BcbWo5Tkg4A/ho1051EvN41/b7dIhR4tskBaNreXCVdsrB7hABIwOAPep8rTklj9KSQUgE3xx67+e8bH83HeIQdlE1WCfVe3ym9aXSQYE9YkPNFl306nY5R2AlRwPKgfGORihm3W+eoNSIdkfU7HSGUtJgOOB9WfuWSMJJGeeTyaawZHg4+KvJI5JpMfVLjDKWg2D+QBz0K6w0nwDb7inCs7m/7i5WvpxqK5vobdt6oMdSyVyJbhRtQckoDSVEkBRyPH7o209oK6WvqDAuEpxqVBjIdUmWkhK1ko2pStHsfqPKeDjPB86ripRZOo5cgKSaCSCKrv7fz1iY/hIzBSoWVA3Zz//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwYFA//EAC0QAAEDAwMCBQMFAQAAAAAAAAECAwQFBhEAEiETMQcUMkFRFSKRIyQzQmFj/8QAFQEBAQAAAAAAAAAAAAAAAAAABQb/xAAoEQABAgUCBAcAAAAAAAAAAAABAxEAAgQSIUFxEyKx8CNRYYGRweH/2gAMAwEAAhEDEQA/AEFPPI50Tx6BV63fE2JUbiXU6VGVmc2jc23g8pjFAVt57qwDgDvk41w8XOo3WoSXbgkojyVJPlWUHMRpP8jwKVAE+43AnvjgaobNtGTbd2TZUR9D1DkR1FLinNzu4rCwFk+rGVkL9wrnUKjIKdHiCbMwxj7Ou2sVCypqFwlbiUh+bzBYsNN4m7wt6NbbiHqbWUIcaV1WYy5aGpbA/wCKifvGP6K7jjJ7amWHG5TNRqFTmtz48396oqa2KGOCraO3pHIxyNV9yIte9rmiwaV5ldSkuJRJlMJKGXYyOXCSeF4A2hQHdQ5ONQbsZmG7U4Tp6bLEWTGUpsZ2oRIWkYB/zTNJMZkwFHv9Rlu/2D1mvJkazRi4fveESjeHVPm2CEwt0WbMWZrEhz7lNpUCG0K+R01YI+ST30iN0tpdCTS5GXGFRhFcIJSVJ2bTyORxrTSyhplDbaQhCQEpSBwABwPxoqui4LyYqX012lQ4kCe+mAzLQouY6h2hYXuGFYydpT7aE8arUa7V8npCrI0stwlyQBgdfmNTwrotIaVU61SVdRl10w2HFu9VYZaOMqPsVEZxxhIRoZrLz1QnvPx0lDdQ80oD5Di3lpH4wdO1k2u3YsS4Fvy0fSS6HmdxP6TCEn18erHBPuEjQOXT5HewkttRors1tGc7C4V9NOfhKSdNUPMspOC4wx9jBdSLUZJCLWfAj//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>魂兮归来</div>
+                                                <div>今宵别梦寒</div>
                                                 <div class="unlocked">6 Feb 2026</div>
                                             </div>
-                                            <div class="description">完成第四章</div>
+                                            <div class="description">听完片尾曲</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwMGBP/EADAQAAICAgECBAQDCQAAAAAAAAECAwQFEQYSIQAHEzEVIlGBM0FiFCMlJjJTYXGC/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAEDBP/EAB8RAAICAgMBAQEAAAAAAAAAAAECAwQAIRFBURJhkf/aAAwDAQACEQMRAD8AVq4PDnEE0qLxRUCwyysAce29CNmJ7wnYCk91JCn5dEW8w82cFwjK5CuwNgw+jV0d9U0pCR61+pgft4zmV85eF1rEtKtcmy9lQQ0NGuZVb8tFm0hHfXvrwY2Mlfy5gqySwU+JVLCXatG5bSedXKN6UXWg0Itt1Kp6iNAAke2M06QqSx3nVVqSWXCqNdnzGDyYtva8uMTBM4ks4/1MdKVPUC0LlN7/AMqFP38TyFqzzif4fg7ElfjSOVv5OJirW9HRgrN9O2nlHb8lJO/A9jLGUq9dStDVyfE7kq5CzjKVz0JptxohTqYfhBk307Xq9ifceE7F+cXDkenj7S3sLK6KkEFimQgX2UKY+pdf67eJDOkoHB35izUkgY/Sn56PX9zW8o4jgOSQD43j4JHiG0sqfSlh132si6K/X314EMrDLhrUFzH38jb4hdE1WrZu9DyySpG0gkjPSCYyFZULd2KkjsQStyfz1bmgWQHiVaT05ShP8UlU/Mm/7CnsdfiMCN9IO4edGLlu+Xd6xQKR3cR05OsensDCCSoH0KdQ19vbxZ4VmQqRvFS09aQMpIHO/wBGFOKo5TMpbvYx5IuP40QVrktGBGvuDEJJGj2Cp6OtSyjv3bWz7r/A+EcQwNatkuM0q80k0YePJM/rSyKw/qEh9gf068W8qsMcFwLD15GDW54hcsyD3eaX94zb/wCgPsPHLloJOE2p81jI5JOPyuZMnj4lLfs5J+a1Ao9vrIg7EbYdwdoIFhXhRvvFq09lyzHXQ8z/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwUEBv/EACoQAAIBAwQBAgUFAAAAAAAAAAECAwQGEQAFEiExB0ETIiNhgRQyQ5LC/8QAGgEAAQUBAAAAAAAAAAAAAAAAAwABAgQFBv/EACARAAICAgICAwAAAAAAAAAAAAECAAMEEQUxIUETcfD/2gAMAwEAAhEDEQA/AOUiHyE+5ONS7mu+mtyeKn+A1TUFOfBWChR7ZPfnVmEdID0POdEXqSVN21XFmbCxg58A8R0PtrDw6lsfTTnMClbbNN1O9t6+KffKz9M9O9LUMCUXlzVse2cDvGrbvljobslit07cQcfVx+CDpeb9/wCdPmVrU4CxchStNgCdETQ0yoCzniigkk+wHnUm9rZantGivbcNtplo5ZIhSxSlmkrFcEqXCHCJgZGSSeh1nVTc4PouhyFcrH/Zgv8ArTrY230e8emM+yVFPFX0tNNWbakNaMqRFPIsasR30AvzDsY670bCqDbY/UtcXXpjb7BgPZHpzFdFvrd9nSbfJXxsUqdol5RrTuB/HIT0SOxyHHvojGsW3VsW406VNPngzEYbGQQcEdffTvFaFH6d+iO/7ftzAVS7ZPLV1akhppvhEFsnwB4Uew+5OhvdoooLp32CnRY4Y651RUGAAETGANSzqlCBh68QnLIHHzHvf7xP/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>童趣奇缘</div>
+                                                <div>春风化雨</div>
                                                 <div class="unlocked">6 Feb 2026</div>
                                             </div>
-                                            <div class="description">完成第三章</div>
+                                            <div class="description">完成终章</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+3 others...</div>
+                                            <div class="description ellipsis">+8 others...</div>
                                         </div>
                                     </div>
                                 </div>
