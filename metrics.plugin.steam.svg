@@ -38,7 +38,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        81 hours played
+                                        82 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -55,32 +55,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            85 / 99 achievements unlocked
+                                            92 / 99 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcCBQgD/8QAKRAAAQMDAwQBBAMAAAAAAAAAAQIDBAUGEQASIQcTIjFRI0FhgQgUcf/EABgBAAIDAAAAAAAAAAAAAAAAAAMEAgUG/8QAIhEAAgEDBAIDAAAAAAAAAAAAAQIAAxExBRITQQRhgaHw/9oADAMBAAIRAxEAPwBIWzadVrcRyRT4TrkVpQQt7GG0qPoFR4z+NG9oWlCp9yNRb0jtQ4O4lEmQFJZeAykhKsEH3uB+UjQxZ85ymtsOIra6a265sdKCvxTx5KSB5Dk8cnjTQsyuwaxLXFuiQuqxR4RP7SfphZIBISMbFY5zjJxjQq7sAR16zNUiKy7Fzb5i+r1s06RdVNpFBkxnWloZYXKZKltqcI+ovOASByScAYGiCpdFlOU2mpolZbn1ic+tpMVyOqOhKUpUTlauArxyAcZByNHNiVqzbbk1uC5GiSFynltIXLVgrYyMNgn7Z4PyRz9tXde6s21RoTEaFHiISiYJCmox3qQsqypQ+Pvn/dEQkKBe8qPKrutTjUY+4iqN07u+ayx2rRqbySfbsctAftWMaYMHo5e0uMnt0qBTUggqbdeBKz6z7OSB84961SXwfZ1zklEiO6w4V9txJQrYsoVgjBwocg/kc6Nta1oo2qkuHAFx+6sZn1HRq4KhUKY/HmUWOKaA0+lt9alhwDJB2p4OFA/vUWf4+N3HJk1Fd2sLZdfcSoxYvcwpKilSdxUOQpJHrRLanS+qUqLciarWn57lUYUtkInvt9mQSeVKz5HCWvqHnxIxjVv0ZsCXYYqQqdQTPdfKey6h1zakEZcHbJ2g7+d3sj49alwgYMXrajUr1eZ8mf/Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABgcIAAEF/8QAJxAAAgECBQUAAgMAAAAAAAAAAQIDBBEABQYSIQcTIjFBCFEVkaH/xAAYAQEAAwEAAAAAAAAAAAAAAAACAwQFBv/EACARAAICAwABBQAAAAAAAAAAAAEDAhEABCEFMWFxgfD/2gAMAwEAAhEDEQA/AJ7y6k7oCgqptwD9we6B0VT6gqZIq93jMR4ggS8jjjyueAOQPt74GdPQUdTAsM0lSlY7hIgiKUJJAG4lhbk4YFJTRZDOtbllfUmaLcE3sjCVX4EZFrXsCWBPqxGJpKm1ZCzRzoNnc19VQhKxM+nOfvjOf1H6f0eRxLVZY08SXtJTVIIYC9gytbkXIuDzhZ1VPtBBA/WGpqSCs1HMlbmFfZFXbHGsN1jQP522n5cHceWOAfNaIR0rv3ado1YqAJB3ByRyvv5gqSxKwHGzh1Xo2VmIlch7HCDI+nusaulj7GmM0YN77lKUH9tbB9kPSTWRipxNkjQRrcsDXRwkkqy343fDb1iqDOD7OM74/eHESibGZzvNSckolEURWTnN0N1ZmNa07ZjR0KPtBD1TyPYAceCAfP8AMay/8dlzpZKmfWEUyd2RHenpS93VirgsWHIYEHj3h96kpFzfIK+gN908LKm2VoiHtdTvXlfIDkYB+jmgKnQYzD+RzEZjNPsMcqySBVuLyL2ydt94vu9n7bCIlIEk9yrDyU1RC1gAVXAL+zn/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>A Stylish Older Sister</div>
+                                                <div>Dummy Breaker</div>
                                                 <div class="unlocked">8 Feb 2026</div>
                                             </div>
-                                            <div class="description">Gaiden: Acquire all outfits.</div>
+                                            <div class="description">Gaiden: Destroy the dummy in the backyard.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwUEBv/EACwQAAEDAgUDAwMFAAAAAAAAAAECAwQFEQAGBxIhEzFBFTJhFCNRFiJCobH/xAAWAQEBAQAAAAAAAAAAAAAAAAADBAL/xAAdEQACAwACAwAAAAAAAAAAAAABAgADERIhBAUi/9oADAMBAAIRAxEAPwAJp0ZtqKXXkr6KBdWwXNvNh+cXcsSGKvMcg0yhVWpy1NKKG47QKkW/mbHsPnjFvTqmRatMo8Fe8mWotKvYDdfjn8dsIVeynm3TinKnZXW7KbkNKjyzDZS4sc3SVIvcpsVC47ecVu+sFByEK8GmCdYlNU6U7Dn02oRZSOFNutAEf3iXUYlozbhSUpcQFgEc2OHHJun2Zc60yRUK42qnnclEdctIS44L/vVtNiBawufPxfHAanUj0aszYQttYdLY5vwMKGBsKA6Jl0+CwnSZJyVmB2lxEScr1R1rqlS0LjFG5JABB32FsJaNMWpTCIoy7SWJ+0OFCw0ley5G6w5tcgYdOv8AOCw6eVA6qnM5rMj0or2fQiY9v6e3d7r+3q89L228+MR2UC08mOSlfYcFCqoMwP6O0yox3IyIVCYnstJS5sSCUKNyCoAeR/mJ9Q0HZzDZP6ghxWY32FNQIu4IUkAFPK+D24xayrptPpecqxVqhWpcmBPQ6lMZE98Lb52tbl3u4QgkXPtNrX7426R5FqeTZlTkVisOVFcyzqQJDpS24onqXSo2WTZH3DybHgY2lIr7U9iFZ5rWjGAwz//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAQUBAAAAAAAAAAAAAAAABgECBQcIA//EACoQAAEDAwQCAQMFAQAAAAAAAAECAwQFBhEAEiExBxMiQVFhCBQjMoGR/8QAFwEBAQEBAAAAAAAAAAAAAAAABAUDBv/EACIRAAIBBAEEAwAAAAAAAAAAAAECAwAREiEFExUjkTGxwf/aAAwDAQACEQMRAD8AHfFniqmSbei1u6HQUSk748MEjKMnClYI7wSBkcaKbw8XW5Jpa3KDFZi1FtsONBpai08M4AUlRVjnAylX15Gl8O3DSK7b0KnS5DbNUix0Rkx3F4Dwb/qU/fKSQR39R1ovn1RFOQt1LDs1/wBqWvUEALW4PklLiycIRkAk45x/mo3cZRMY2U3rrYo0xAFZqtOm1RFeL0ahIq5cWY/7cbUjeoKwkZBweCQMZ41JVq1axTKdKqlVhxoEcMokohtSA4stqcCBgjO1O7PH4P21ZltWG7XrflQG5MKPLek+1+YZw9e4KykNpSNxOFYzwASeTwNOuq14dtUJUO6kVByVPK0SJ4ne9EsAZbUlagNhCkgbVDHYyeNLklfbW0CPWr/v3QfEkuKne/dA/jq0bwhzGJDNrVJTbgLay9GW2EpJHOcpP/CM9au2k+Pa+6JMeqstFD0PCXtyUpZfCipsIRk/EYSlWe9x71cRfB7OuckokR3WHFL9biShWxZQrBGDhQ5B/I509oMjc1ObnJCuKgCs5VfwbV7mlpfjrodNWwS3JSmU5KId4PHxynAI+JPGeNPov6e36vCUZF8ofhBxTfqhxyppK0KKVAArwCCCOu86K7U8X1SlRbkTVa0/PcqjClshE99v0yCTypWfkcJa/kPPxIxjUv4ZsCXYYqQqdQTPdfKfS6h1zakEZcHrJ2g7+d3ZH261t0Qo0fihNyUjtkbCv//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Astlibra Master</div>
-                                                <div class="unlocked">1 Jul 2025</div>
+                                                <div>Indirect Kiss</div>
+                                                <div class="unlocked">8 Feb 2026</div>
                                             </div>
-                                            <div class="description">Acquire all main game achievements.</div>
+                                            <div class="description">Gaiden: Acquire the Lollipop.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+83 others...</div>
+                                            <div class="description ellipsis">+90 others...</div>
                                         </div>
                                     </div>
                                 </div>
