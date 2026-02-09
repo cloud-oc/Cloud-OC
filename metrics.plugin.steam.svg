@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="262" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="246" class="">
     <defs>
         <style/>
     </defs>
@@ -55,32 +55,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            97 / 99 achievements unlocked
+                                            99 / 99 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwUHBgH/xAAsEAABAwMEAQMCBwEAAAAAAAABAgMEBREhAAYSMRMHIlFBYQgVIzJicYHR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMFAf/EACQRAAICAQMCBwAAAAAAAAAAAAECAAMRBCExEhQVQlGRobHw/9oADAMBAAIRAxEAPwCEUegqmUebOD7TQi8OLau3STayf609oaoD8VESrNlltoWQ+2LAfc/B+ewdd21DiFiJEckcZE4pSohBWGkk/uIGSQOgM51ZqJtyl7Z9ODNr1IlV2I+lZCEs8H4hueJBwoJJAuexf6jGlLrGqckDIO0sXU+ZPb1kXf29GVVVB6e25CSyp/yt5JA6T8XJ/wC6LVqPRqlCkN0ymSabUGI3nS2495EvIGVquRj29fOkrIfdDjsXxtXPuTfH+j66cbhrEn8rbp6o8dkIZSy4+lu63CBcjkchOehony7gpt++YdNZasKFx9Stfhs2bPg1Z+rVujVFpxpngw2/FU2TftaVKAFwBa1wc6u5qFeDCG4+3VuyDyUVvSW2mkZwm9yom3fttrQef+WhySiRHdZcUvxuJKFcFlCrEWNlDIP3GdG2mDN1GRrdebDkyLbr9H1blqr0mhCmUpJcAmth8ujyWClABKfaQVHBOQQcdaDUvQCFuJMeQ1uNLbdil1TDIdStYUQSk8gBawFs5B0z2d6Z1eiNbjVPrsmW/U2FLYLVQkN+CQScqUDdRsG/1O8EW1oPSDZk3Y9NmxalVV1Jx10KacDrnBKSOSgG1GyTzKjcZVcX+NN7dV3U8TfFbyApPAxP/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAABwUGAAMIBP/EACkQAAIBAgYCAgICAwAAAAAAAAECAwQRAAUGEiExBxMiQRRRFSMyYYH/xAAZAQACAwEAAAAAAAAAAAAAAAABAwIEBQb/xAAiEQACAQMEAgMAAAAAAAAAAAABAgMABCEREjFBBQYTUWH/2gAMAwEAAhEDEQA/AOfcqovyGWMMiE8Dd1iyUWRwx5i1NmEUjRLvAkpoy+8gHba9uCbc/o48mmqGmqRSfkVsUCvLsclWJjXj5EAdc/X6wj+Ocwp8g1I9Waj+or6jNKCVZACSbXAXrvvvCry4aGFmjGpHXFdYAiQ6gZovqcmmWVl9Ekf3Z1K2H/cRuZZfLSkLPGV3KGF/sHo4aPKOqEzsmCj9S0sjpMwQX3FVO35Enj5NwLc94NtUvK7iGpIdadRFG4UDgdDjvvBs53uIld12k9VH41lj3AYqf0t491bV/jAaczVIXYB3kpGXaLjn5Wwk5X4j1TPSbJKEU4iI2e2ZUMn+Q6BNhY/eOljOD2cZ7x+8PaItzWOPYJVAAUY+80AVfhPUWZrRq9RlNFFHEiOod3YkXv0tuiMb6nwDlmoYKeWi1JshiDQztFD7Q8yMVexJFrEWt/rDNqSkXN8gr6A33TwsqbZWiIe11O9eV+QHIxR/DmgKnQYzD+RzEZjNPsMcqySBVuLyL6ydt94vu7P3bBWAAa9iq03m7iY5OPyv/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>A Magical Older Sister</div>
-                                                <div class="unlocked">8 Feb 2026</div>
+                                                <div>Scales' Latent Power (Gaiden)</div>
+                                                <div class="unlocked">9 Feb 2026</div>
                                             </div>
-                                            <div class="description">Gaiden: Learn all magic spells.</div>
+                                            <div class="description">Gaiden: Strengthen the scales once.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwYDBAj/xAArEAABAwMDAwMDBQAAAAAAAAABAgMEBREhAAYSEzFRByJhFHGRIzJBYoH/xAAYAQADAQEAAAAAAAAAAAAAAAADBAUBAv/EAB8RAQACAgICAwAAAAAAAAAAAAEAAhEhAzESFAUVsf/aAAwDAQACEQMRAD8Am2IEPZdQqdOgpDqHY7T1jc2uALAnvm/51RtTBMc+pZgJDPFLY4m3uuCcD+oJ0exESRU3W6nKJloaS2la/wBqT7SoH5AOB5GvQeytnUvb6XqjNlLffmFu6pD3sLne6RgEk3IxgYGNIcmNq7/Zb80chqGs2ZIiqdeZhhLLDnVQ8nIAGCCfvqaqFJpFcpm4ptUQv6mOEtMOtpPsAK1W8drDP8DSnvnYtBRTK1XaY4WubRUpSJKuihSVAqFgbG9rFPzYW0J1JioP0etohvlMZt0KebTjqcUC6v8Acn8674iuRGbSzZzY1LyTsbcT9eEiPQZz7L7ylLHRsAOFu6iLZHfSzQ9qbsjNsU2eaZKo7bXJtLwJU24Oye9wMkAgn7DSZ1x51nJKJEd1hxS+m4koVwWUKsRY2UMg/Izpn1B7km3yd0KmghlV9lbg3ExJpqKlR2KUyoI6DCSeDuCoKAvmxBuSTnsL31y0/wBGoTjKVwq4gxXG+m+W2w6HVpCkLINwB4tm1tZbO9M6vRGtxqn12TLfqbClsFqoSG+hIJOVKBuo2Df6nfBFtUHpBsybsemzYtSqq6k466FNOB1zglJHJQDajZJ5lRuMquL+NF9OlTTBfZ8qePR3P//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcEBQgD/8QAKxAAAgEDAwMDAwUBAAAAAAAAAQIDBAURAAYhEhMxBzJBFCIjCBUWUWFx/8QAGAEBAAMBAAAAAAAAAAAAAAAAAwIEBQb/xAAfEQACAgICAwEAAAAAAAAAAAABAgADESEEFAUiMlH/2gAMAwEAAhEDEQA/AM/Wm3mqZY0ZFLcDq8aatw2ra6Sw0dcKSSZnqTTzmFlZYwoxkqOVJxkdWM540L7BtcNZc7ckv5zJOo+mRiruMjgHHGc4z/mjjYFBW7yrqy2pUwQWxKvrq6V52y7M2CwUeSqKefAx5GhvckhUOJ0jutaqBI+3l2jbqOrtu4bNRTTVMLPFUSOesZB6QCOVOQMDzg58HSfuVvlpSqzxlCyhhn5B8HRVv6rtp3RUy2qvjq6Sb8o6V+2LBwEH99KqvJ1w3U8kgCVBDpCojicLj7QMgcefOpUD2Y/sPj4uDw32BsvdKQ0lXHtu5dxI5lxLTFOeklD92PnGrrYnphvG2bittalEKS5U7Cd1lrI1keIkB8gMSVP3Kf8AutU9/wD3SsPp3cD6qnc5vNR+1F+j6EVk3X2+nq92fb3ee17cfPxpesGJZjiY1/lWtxoa1Fa/6edwVN6uaUt1sCRd8yFO5Izxq7FlBULxx/Z0YT+gFHebbRQfyRUmpUENY8EPdDTD3Yyw6fjg86vdq+m1fa95Xi7XC9VdTQV6SqtMlfOHj56Yup85kIQkZPtOMZ86m+kexbns2sudReLxJcXrMSqBUSlY5GJ7mVY4cnCfkPJweBpOuq7B3Kyc+xPnU//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>My Beloved Older Sister</div>
-                                                <div class="unlocked">8 Feb 2026</div>
+                                                <div>Two Heroes</div>
+                                                <div class="unlocked">9 Feb 2026</div>
                                             </div>
-                                            <div class="description">Gaiden: Save your little sister, while saving the town in the process.</div>
+                                            <div class="description">Gaiden: With two of them around, everything will be fine.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+95 others...</div>
+                                            <div class="description ellipsis">+97 others...</div>
                                         </div>
                                     </div>
                                 </div>
