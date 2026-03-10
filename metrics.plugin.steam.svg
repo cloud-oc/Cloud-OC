@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="166" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="151" class="">
     <defs>
         <style/>
     </defs>
@@ -22,15 +22,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,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" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAABwgCBAYBBf/EADMQAAEDAwMCBAIJBQAAAAAAAAECAwQABREGEiEHMRNBUWEUkhUiIyQyUlRxgRYXJZGx/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgMAAQQF/8QAIhEAAgICAgICAwAAAAAAAAAAAQIAAwQREiEFMRMiYXGB/9oADAMBAAIRAxEAPwBWE5SeeD6U1/S/TjbOk4iYSi224N6lLOckjmgB040oNUXZxp50JjR0hxxOcKWPQGmmts1ix6FlSW8ONW5vcWU/iWkcAA+tcfy1tgRVr9maK8at+7vUmbEvJCHkKHmAOTUvoJSwAZCMp7IxyKwg6zxFfWatMhBxlBKhyfSvf0ZrxWrbs3Ft1mklpRxKkBQ2tp9a5RxPID7x5TxrfXc9z6BcBBLqQo8Z8hURYlZ8QOpSvONx7V7V1eat85mGyS/IdVjwx3A8jVKVclxQht6Oozlq2iMCN2PI0C0ZzHbLGjEwADwmc1XpwS7DMiySXIrqCFLRxg0ok1rZPfaT+FpZQD7A4p572QmzAyFJCnBhLPmg+9Kv1X0Yzp6Q3cILwEeWs5aUcqSruT+1dfxZsTkrzNfj9n4/UHrMl+MomM+60T3LaynP+qam2FH9qbyp9K1EwEEnPftSokYIpr7WA50nvIW6lP3BHf8AitWb1xMwWMEGmgTaTDcaS2SptxWAFE8Uf9FW229NrQiS7J+JlzGwp0t5ASk8jIoU9MIkFWtLAw6lD7qn/rBXKSMehoq9YNfw7X4tttjMaRKI2LUEAhAp+UzW16QzOKyp5JJ601ZMuEcMWmARuGfiRjJB8ge9YebeoTchDdzvaFSkpG4JUQtPtmhVKmT3XXXPjX0KXzhKyAP2FUFsJ8QqdCy6RwVHJB9T7VlprsUdvDWu0bJeMnaZzNw6dtyIrq3VB9xO9StxOPelTvMyQ9cZKZEh51KXl4C1kgc0yPTvCejccoHJkugmlouYxdJfn9qr/tTBJLuDH977MqnnBzTMC8MWzSEJiXGckQJzKWXQ2cEAD1paO5CsjOe1Hy9NtHS9oCErCSkdzxnFPyBsrBf8yu2/ollwOx7LeEOp7OIk4I9wa0NitfTm6treuT8qE6e5kPlRNYPwRv8APbjyqIjtnccAp96r4iVhg9QgX3T3TKHELkSW7OV+Vp4g1mD/AEIU5XYrrkcbviO9eMYyNoIACfYV3wEbk4J20BpIhc+oR9LXWC9YpNqtEN+JbYoLyS8rdlR780tN1GblMKeftl8/zR70MhpLFwQQvYGyRz3NAe7nNzlk8fbKGB6ZosZeNrfyJVtmU8gnnk+WKPt++rpixpwTwNxHYDFAQgE9skdyO1MNbLxbn9Nx2ErRMjuNJbVs/Eggc80WUdFTJZMpu9O1c3VogxZcD7u/89d8Gy/p3/npa36WUT1M5kYxuFcyPzCtGWbL+kkfPUSzZf0kj56s3bkFg1LWhSki6JHLaWchXqaAl0P+Tm7eEl1Q5/emFh3a3QbU+0nbCjgEqW7yVfzS9XBTap8pxs5SXFKSfI80WOd2sf1LrYbn/9k=" alt="" />
                             <div class="about">
-                                <div class="name">RPG Maker MV</div>
+                                <div class="name">Slay the Spire 2</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        RPG, Design &amp; Illustration, Education, Web Publishing, Game Development
+                                        Indie, Strategy, Early Access
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -38,7 +38,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        73 hours played
+                                        2 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
