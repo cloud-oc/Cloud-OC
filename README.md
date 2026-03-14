@@ -6,18 +6,16 @@
     Hobby: Anime • Coimc • Game • Novel • Art • Music
 </pre>
 <br>
-
 <p align="center">
   <img src="https://github.com/Cloud-OC/Cloud-OC/blob/main/metrics.plugin.anilist.characters.svg?raw=true" height="220" />
+<br>
   <img src="https://github.com/Cloud-OC/Cloud-OC/blob/main/metrics.plugin.steam.svg?raw=true" height="220" />
 </p>
-
 <p align="center">
   <img src="https://count.getloli.com/get/@Cloud-OC.github.readme?theme=nixietube-1" />
 </p>
-<br>
 <div>
-    
+
 ![暗色](https://github.com/Cloud-OC/Cloud-OC/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![亮色](https://github.com/Cloud-OC/Cloud-OC/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 </div>
