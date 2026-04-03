@@ -3,7 +3,7 @@
 <br>
 <pre>
     Skill: Writing • Unity • RPG Maker • AIGC • Game Design
-    Hobby: Anime • Coimc • Game • Novel • Art • Music
+    Hobby: Anime • Coimc • Game • Novel • Music
 </pre>
 <br>
 <p align="center">
