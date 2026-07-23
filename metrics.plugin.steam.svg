@@ -22,9 +22,9 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAABAUGBwgDAQL/xAAtEAABAwMDAwQBAwUAAAAAAAABAgMEAAURBhIhEzFBB1FhcSIlMoE0QkNTkf/EABkBAAIDAQAAAAAAAAAAAAAAAAMEAAECBf/EACQRAAICAQQCAQUAAAAAAAAAAAECABEDEiExQQQTFCNhcZGh/9oADAMBAAIRAxEAPwDlp9MfS1ukSJJ/UCMJbz/yovOlOzpK5Lo/Jft4pjqFwybqXXTztH1QDKP3pPAIrpoK3lBLgRSQDXFYOKNAGSmhnEhC8miBpr1QF5CinCiM0K089BktvN4ylWe1NHkJ278ZVQT6A4FBXCsVCexIq1se5ZDsyHq/SzcqY8mPOi9ln9reOAVD2qESGVvLUHiBLaGTjspPhQ+6H0tdXLauZHCOo1LR0nEKGcD3r6jPxYN/dYRJEll9AAWD+0+38UEPvvCPgoWBtHk4q6oK+6uBXNjlxIB58031VGEW8htCcoUkbfulCgWXRvSQT3rIcEXDItyR6H00b8Jraz0ysbY6z2C8+aR6ksM+ySlsXRhTSuyVkcK+RV1aUtRtlp0/0UbVLkFaifIIobX+p7bAky2l29cxTSdzzivyDYP3S/yDqqWFuUAVbVFKjnI70JIylThWecdxUz1GiO5LLLiEQnXWw62hY5IPIPFQO5SNilJRgLztGfOPNMLkuZZf1PIas3FvaCT8UrnBTFwWMFtWcjNMbM9umBSSN4rvq1hTk6Ilpvc66ccVi7th1Gin0Bf5lmrVBuLlum3dShAkvFrclWCgjyTUm17o2S+7b58JCX2FBKFFoAANgcE/NV9PsbseMuIpxbjboxGweAvzUt9IuhqF5y3XqTLTLhcpSHilKvGMUHIhRdQPHUAhGkESz2b0idZIiosdSWWQGnV/69oxmndwtcG4Wh6G6w0tuU0EqcCRuUPuucCAwHZHQb2xFoDe3wSO9epC4q0x2X0Bon8UKGVD+aUDdiE0gipWD/pdbral+Spx+XNAPQ3OFWPYc1nHVaXrfdXo8jKXQ4SE+RzW31s5V1JagUI5BHFYz9aHEDX05LONpSOfajYWJu5nMAE26iWw3OPEkpEttZyeSD2+6sjSMAy5K77PZUiOz/TIV5UPNU/bGVS7gw03zuUATV9TOmmFGjRHQWm205SD2OOadwIHbc0OYtkz5PVoHEKgSApstSAXFN/k1jvk10asctptl3T01uPPacLzi1jO8H+2lcVZQ8CO/v7U0n3dNote5pJ67hOPj5pjyseOjkc0IDxFzZXGLFyZP9NepMB9JtuqP0m4Mj/IcB35GPepvDmwJMcyIrzbzQ5UsHsKyZbYEvU+omWHSVvyV7Ss8lArRNj0RbYLCmmHZaX1NhC8unbkecVwdjbDidzP4w8crjZrPf2nLU2oTJUqFAOQrhRHkfFUj6v6CfeSzdLQw7Jlq4eSDnCa0BbdMMQlKU6oKUDwqmCYcdkna3uB7g80T2hdlkf1MhSY2h21NqbSktLEzGV58UWpx3qpDjjiCe6t3ArRnqRZdPu2Z6TcmUsrQCUlv8Sqs2OuKMkob5Y3EJz3x4qmJJu434uj16VHH9n/2Q==" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAABQcDBAYCCP/EAC8QAAICAgEDAwIFAwUAAAAAAAECAwQABREGEiExQVETcRQiI0JhBxaBM2KhsfH/xAAZAQADAQEBAAAAAAAAAAAAAAADBAUCBgH/xAAlEQACAgIBBAICAwAAAAAAAAABAgADBBEFEiExQRNhIrEGFIH/2gAMAwEAAhEDEQA/ANfsa9bf65o7JKovJVgfQ4oSjG1K1hgsUblA3yBjNu24tT05YUOHuTArFGPVjizSqYZBZ2rFXJ7vw3PnGsy1EIJ8wfG0PZsDuJfr1rVuNn18LQ1gOGlk8g4T1tahq7AdVe1ZPnvjPCqf5yWgJ7SLJYBjT9saeBx/IwjWoGNCyqCxPrxkWzPbeknU0cOmuq47+p1PvNiQAqAr9suQbKV4x9RPzZWClF47cniA4B8c4qM21Tve48/G47qVC6+5V2dGLaD9RuJF8jM7WQQTsOee08ZqJIHjk7kPKN6nAzUuy5IgPJ47su41ouXqE5HNobHco0g2DS6TVlrMqz7CXlVkPlV+wzJVXae/EHYyAtyzMeeThLqevudfsDT6gAFkKG4A4ABytqq/4idV+PjJGQxLEGdJgVKtYZB5/U3VRgaZlA7gg9RhWByiovvJ/wAZz09qpJElAdRFGgZUI8scuw7Mb3dRQUK/aw4iI49xg6cZrVLKPEYyc6ulgj+52IolhZJOCG9/cZHFFU/MXPC+gHPphSTR2bF76UteRZI/UA8f5OULVSGwtsUrEcjQr+oo/wCvvg/hYg9pr+zXvXVOGsQDTzgFe9ee3n3yHpLp+fZ3FMvgE88n4yjTeGxLHAoLcnhs3/TCGrs+8f6YUAKMp8SrdLkSBzzItiA+4iv6ibxN71TLdhk+pGYlXn7YFo3RTsKo/d7e+UrVlrM5dwgPHoo4GWa9OSVu8r6j098TYGxiQNy5TqlFQnWo0ejOplW/XUAFmPaUPkkY5NJpqUE7bCtXWOWYfm8en2zz/wBJaJ6mwitxXYjInDEsOQP4z0FqN7TtUVhmcQvxx3fJ+RhqC1W1btuT+Q1cQyDZHn6hDZQvYoWo4wEmdOFk484oN1Qm6d0k87OqW7LMh5+PnGRu+qtV07QE9uys6kkIFPqfjEB151bZ6o3EVgI8Gvjb8qH3wtl/QhQHzFcPFNlgcg6EN9OlGaBJDxMzclx75uNdsvw14qyE8Djj5GLCrcELxSL5I/aPU5v+mZ+24HsgSOwB549vjNcQxBZR7mv5HUAEsJ1r9xDw1QrNYtuscajzzl2pudc1hY4rsYPovPzmG321NyQRQMwrr59fXCXSWvZS9maNe1hwpI9McpUVjpX/AGK35TWN1GN7WM08S9zqP96+ARjH6f0Vmzq47lR/qISVK/bPP9azciupHHL+g548ftxna3qDdVqrahbKRUAgZSBwzk+oBw14TKArI/KeVW2J+VZhG/03/cdSaSBZJo1dkADeFceuB5unJdS0FLcwBopj2o6jjjLWq2Gw19+SGGXsVgCV9v8A3CPU+4t7OOgq6+b6ELkvYY8g+PbBpi/Do72p7HtCtkP1b8Re3dJa11kWasUs1XvI7gfAGabX9XVKUKNdiYMn+OMD2upYqfUUepWQFG4ZufI85pLuv124gaCxCPqdvIZPGDGCarC9Da16Mzl8mlyfBkpsHwR6n//Z" alt="" />
                             <div class="about">
-                                <div class="name">Chill with You Lo-Fi Story</div>
+                                <div class="name">Memory of Memorie : A Chill Story</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -38,7 +38,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        248 hours played
+                                        2 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -55,32 +55,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            23 / 23 achievements unlocked
+                                            4 / 15 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQYEAAf/xAAoEAACAgEDBAEEAwEAAAAAAAABAgMFBAAGERITITFhQVFxoRUicoH/xAAXAQADAQAAAAAAAAAAAAAAAAABBAUD/8QAIBEAAgEEAgMBAAAAAAAAAAAAAQIRAAMEIRJxMUFRsf/aAAwDAQACEQMRAD8Al7XKanGPBiQRM7Rh3eRerknWOPcFk7qiQ4xZjwB2h71aV2303DvKmwJeRDMq9wj30jyf0NduPaL2N2cunxcHCrcuSTsRrN4ijiXku/vp5UdXHz61YR7cRxrO3YV12dwDv6RNCX+Pu3b6I9xTjFifwsrQhkJ+3UORzorEzZbIyR5MMSsq9QZF416ls3Bv6OWXEt5IM6hnBWfCln7glh4UtLED9AHU/T8eNR9zQrt/ddzXIS0eMxWNj7KEgrz/AMI0GdCsMop3AxkuXgB6Ino09T2YpNzUtk4LRxKO4B7KnkH9aZv0sNu9tayuxMqkd5JsbLjR3EqSjh1chuASv9T4HrkajY8nGsMPHLTCKWNeghlJB+fGl6a4sqZStXcvBGTyUCsVJ/yV41DOTcRmXiYk7Ap/Gwi9pHWDoAg/QInvyOqpNr5FxbySZNpBj4dNArd3MkjZOzCQoaOMk+eQij0T8+dR99Y/zV9d2gUquQSyKfYQFQvPzwBrXc21jdBRaXD5CKeQjBgoP36QONB5c0GJiTKswkkkAXwpAUcgk+fxorkXXZV4mJGyKexMNcZzdaB+ACv/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAwUHCAIEBv/EAC8QAAICAQMCAggHAQAAAAAAAAECAwQFBhESACETMQcUIkFRcYGzFRYyVGKTwdL/xAAXAQADAQAAAAAAAAAAAAAAAAABAgQA/8QAGREBAQEBAQEAAAAAAAAAAAAAAQIAETES/9oADAMBAAIRAxEAPwDgbU0mnpvwvEcKtesqKeEalpG4Al2JBJJJ+nQ487mJZEjisyPI5CqqxISxPkAOPc9E1mvDU99fgyfbTpl6KqaXNe4kS0Lt6KGZZGWodmjIYcXb+AbYny6mmZ+RTWLzzHlx2uIsVBkXpZD1aeR4l2qqXBXz3TjuB57EjY7HpLVnk1DMMXl+FqvZV1HONQ0bcCQ6kAEEEfXq0FeHVMOt81dy+SrS6Rkgda9dHAYnbyHkQw2fc799x8O1ZtNeqz61rnHQyw0nllMEUr83RPDfYMfeduk5LKhhNd92eqas+R1zZqU08SxYmiiiXkF5MY0AG57DqUb63PRDoxoMTDHdyNqTjfyBkAWpMV9hEQ9z279xsR8+0T3YZNR2TlsP4dqvZVH9iVQ0TBFBRgSCCCP9HWzlq+pcvFRjyKSTpShFeANJH7KAk9zy7nue579MVPAXZFyOfIXLFGGnPamepDI80cJY8Ed/1ED3b9M9DkLqvHH3BpPtP0D8vZX9m39if9dHpQyacsjLZjw6tasrvs8qlpWKMAiAEkkkj5efRq5RBx5zf//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Workiversary</div>
-                                                <div class="unlocked">24 Dec 2025</div>
-                                            </div>
-                                            <div class="description">Completed 100 hours of Timer sessions.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABgMEBwIF/8QALhAAAQMDAwIEBAcAAAAAAAAAAQIDBAAFEQYSIRQxBxNBYRVEktEWUVNxk7HB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgQFBv/EAB8RAAICAwACAwAAAAAAAAAAAAECAAMEESESUUGBkf/aAAwDAQACEQMRAD8AMXSSu0dOxDjtKWpsLWtadxOapHUFyAyWGAPdmmUVV4Y1TbXNNbvijjPlNbUJXwRg8KBGMep7Uz1TqO5uwE6OZuMe5XiYS1OmuJQ2y3kctIIAHpgqP99qgvRQB4iDXi+SKx6SAf2Yx+I7h+lG/iFTRJrtyLjcllpKkp3BSE4pFfPD272W0G5zehMPeEBbMlLmSTjgDvXj2iOEOPqx2b/0UTW1MNACO4eGpuX1uMGbzcLDNjzLS8ll9cbyyooSvKc5xyPYVdZ1fLvDqIOqpe6zOkdQmPFQFqAOQAQMjJA5FH25Ma4Q45U8GnW07CFJJB9+K6EVo/NN/Qv7Vn7bbQ50p1v1KeHirZQh10AD7AmgPyLVqPUNrasLofTHOxi2zYobhstbSFKxnKlDg/mTVLxRhsQpqWYdohwYyWFbXmAkKkHcnJISeAPQHnvQzpWh8039C/tUEt5iJEeSl4OuOAJ4SQEjIJPP7UVVtjOAVI6PiM1YgosWxm4s/9k=" alt="" />
-                                        <div>
-                                            <div class="name">
-                                                <div>I'm Not Asleep!</div>
-                                                <div class="unlocked">23 Dec 2025</div>
+                                                <div>Focus, focus</div>
+                                                <div class="unlocked">23 Jul 2026</div>
                                             </div>
                                             <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAwYFAP/EADIQAAICAQMBAgsJAAAAAAAAAAECAwQFAAYREiExFiIyQVFUcYGTs9IHExQVI2Fic5H/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQT/xAAYEQEBAQEBAAAAAAAAAAAAAAABAgAREv/aAAwDAQACEQMRAD8AgbU0m3pvyvEdFWvWVFPRGpaRugEuxIJJJPu0PhBlfXG+Gn06bea9G576+hk+WmsyhTs5G9XpUYWnt2HEcUS8cux7gOdZpiWRTbO82lWzObtWYq9WeWaxM4SONIULOx7gB09+mZbWVyM2B3DGsoYyQSJJGnXDIqt4yso7GBHp4OrHMVIPssxi1YZorG9r0X6s6dq42FhwRH/Nu7q9HJHZxzE7MXr3RQXvJZ+/+t9RmfKhg9zbwjktbzuQwKXlmlijRR52MaAD/dV0Vfbuy9l5GLL1Wu7xtOajU51MZolTyHUjt48lhIp8Y8AcAHUkz2svk4c/t2RZQ5injeOVA8EiqvisCexgV9h12Wo7kzF1rmV/E3LTDgyzTozceYeV2D9hoUcBcRdi37lrI3JbmQsSWbcx6pJpTyznjjkn3DWrsg9O68cT5mk+U+g8Hsr6m3xE+rT0oZNuWRlsx93VrVld+HlUtKxRgEQAkkkkezv1auWUHOc3/9k=" alt="" />
                                         <div>
-                                            <div class="description ellipsis">+21 others...</div>
+                                            <div class="name">
+                                                <div>You did well</div>
+                                                <div class="unlocked">23 Jul 2026</div>
+                                            </div>
+                                            <div class="description">Completed a Pomodoro timer without interruption</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <div>
+                                            <div class="description ellipsis">+2 others...</div>
                                         </div>
                                     </div>
                                 </div>
