@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="246" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="239" class="">
     <defs>
         <style/>
     </defs>
@@ -38,7 +38,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        93 hours played
+                                        95 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -55,32 +55,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            6 / 15 achievements unlocked
+                                            9 / 15 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAQYABwIDBP/EACYQAAICAQMDBAMBAAAAAAAAAAECAwQGBRESACFxEyMxURWBkTL/xAAVAQEBAAAAAAAAAAAAAAAAAAAABP/EABgRAQADAQAAAAAAAAAAAAAAAAEAAhES/9oADAMBAAIRAxEAPwBBtTSY9N+L0jhVr1lRTwjUtI3AEuxIJJJP66lHV9bv3YKlOw81meRYo41jj3ZidgPj766Mj063qGaW6OnVprVqRl4QwrydtolJ2Hjc9WBgOG2s3vQvegTHDjqpTkkpRenYmnB5Atv2VlG25233P8lK15FJYuSt7msa3SuT1bdl4rEEjRSRtHHurKdiPj7HQqzSZDN+L1fhar2VdRzjUNG3AkOpABBBH76sfPcNt4RdnWjXTIjkatUiluRepZhmJ5Nx27MzDuD2O4/qDjen2qGZ1KWoVpa1qNnDwyrxZfaYjceNj0SvKhA7Bltuermd6zTnlrzoycZInKMPaQHYjv09YFmFjCb9SGtZTJ319EsWK1dyJoLBPFV5t2ZiNgQdu48EoF2GTI7B1XR/TtVrSo5CSqGiYIoKOCQQQQfPz0KOka5Qu17dOu8VmCRZYpBJHurA7g92++havILCbH3PcwsZteuCe0mMyY+jzVqs7kzTzg8XHNeysB2AG/z5ISMRtT2szo2bk8s87s5eSVyzN7TjuT3PWi5o+t3bk9q3WeWxPI0sjmSPdmY7k/6+z1lShkxywNV1j06taqjuA8qlpWKMAiAEkkkjx89FrygwGT//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQcIAwb/xAAsEAACAgEDAgUDBAMAAAAAAAABAgMEBQAGERIhBxMxQVEVYXEUIjKBI0KC/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEE/8QAGxEBAAMAAwEAAAAAAAAAAAAAAQACERIhMSL/2gAMAwEAAhEDEQA/AOBtTSbem+l4joq16yop6I1LSN0Al2JBJJJ/rWmLyOeyuSq4+hO81uzIIokEad2P/PYffRhdtSbn8R7WHhvVaU0nSUexzwxEaHpUD1Y+w+x0ztqbW294W7qxsuczcVzK3ya0IKrElUFSTIeWJ4PAQE8fy/OsgV4mms1ts6ImstkM/iMpax+QneG3WkMUqGNDwR8Hp7j3B+DrGtNJuGb6Xl+i1Xsq6jrjUNG3QSHUgAggj+9Ub4meFNXemTjytXIChd8oRyHyvMSYD+JPcEEDtz8cfGkg+2ZNreI9TDzXql6aMMzvX54QmN/2sD6NxwePuNT4aqHcFt6YG3pIybvvSxO0ciPGyuh4KkRpwQfY6pHAbdp7z21tDP7oggsZOvCtmWVol/zgqQFk+V7q3xyPudTZehk3HYOVw/l2q1pEYhJVDRN0KCjgkEEEH8+ui+Vv70ymIqYu3NY+m1olhjrRSRxoVUcDqCt+48fPOro1Dchqvkfmfs7vxeP3xkP1FNaENUS4kxJyUCp3I78enPPP+3cdu2pu2ZK77wozTO0kjySO7ueSxMb8kn3OiuIv71xGLtY2lPYGPsxNDJWlkjkQKw4PSGJ6TwfbjQijDJtuwuVy/l1a1VHYB5VLSt0MFRQCSSSR+PXTQEEgqns//9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Which style for today?</div>
-                                                <div class="unlocked">27 Jul 2026</div>
+                                                <div>See you again!</div>
+                                                <div class="unlocked">28 Jul 2026</div>
                                             </div>
-                                            <div class="description">Changed the style for the first time</div>
+                                            <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAcDCAEFBv/EACsQAAIBAwMCBAYDAAAAAAAAAAECAwQFEQAGEhMhBzFBURQVMmGBkUJxof/EABcBAQEBAQAAAAAAAAAAAAAAAAAEAQL/xAAaEQEAAwEBAQAAAAAAAAAAAAABAAIRMRIh/9oADAMBAAIRAxEAPwDgaqaTb03yu0cKWnplRTwjUtI3AEuxIJJJP40XY5d03+qamssdVXTKMssMCHiPcnjgfnQm8VVN01yuCVDx8gvY46aZxqx20d9eG1qs8UNmuFvtkTAF4ZEMcnLH8+2Wb75OpMPI5rK1TkQu4KXee3VR73S1lHG54rI8MZQn25AEZ+2tVSzybhmFru/Cqp6lXUc41DRtwJDqQAQQR+dWavm+/Du92ipoLrfrZU0My4kj5t3wc9sDOcj076rrbEtjeIgSwNM9q68vwzTfUU6bYz/vn3xjWYeVzGCy/GDbwilq951cFMpeeeWKONR6sY0AH70z7vatvz7+2xsetd/g7VBHFJFTQ8mq6lwCwdx9KgDJJ9yNLNZqy53aHcO2pVkLdOaOSKROcEgQAqysezAg+n3GpKdN1U96mu8LVC3SXnzqurHzJcYY5z2JHbI8vTXRYwFhqvIyqKzUUXi9uC9V89vqLXYoHq5YaWPEUBC8YoT2wWABJx6j30stsVslfvuCuqAqy1E80zBRgAtG5wB7DONYpqXc1La6y20/Xjoaxg1RCsseJSPLkc5P71BRQybcqBdbx06Wmpkd8PKpaVijAIoBJJJI/rz0bVxBgqnZ/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAABwECBQgDBAb/xAAsEAACAQMEAQEHBQEAAAAAAAABAgMEBREABhIhEzEHFBUiQXGBFiNDUWHS/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEE/8QAGREBAAMBAQAAAAAAAAAAAAAAAQACERIx/9oADAMBAAIRAxEAPwDgaqaTb03wu0cKWnplRTwjUtI3AEuxIJJJP40tFdb9X1UdLQyVFTUyZ4RQwK7tgZ6AXJ6Gk3koj3TXBl5ANHlc4z+2nWdF7Ym2qfdG4KHdmyok25TUUfhkSZPeA9Rw4twTkPlAPbE/Me8eusoV5FJsXPIHpb7eIZXimqZI5UYq6NEgKkdEEcejp1NNJuGb4Xd+FVT1Kuo5xqGjbgSHUgAggj86Iu9Nr0uy0vYv1se/XO9lmt9ZApRImJ5SZQZKupIbrII6670PNnxMN1UMUisrhnBVhgg+N/UHRrXlQgdknco7fU+05I7xJ4rZJVwLUvnGI+CZ7+g/3VjqzaNoo0guW06mhsFbTISKmBFaGWPicrKuQHX0Oc5GMg6q/WwybjqDdbR46qmqkRyEkUNE3BQUcEgggg/fWv8Apy64x7m2P68qf9amiGuSNV8hmvG9L7u+0wbh2ktJTT7cjaWsWRlZnkkTi5jU/wAarkgnGc9djQs2/c6m7e0CC53B1eqqppJZWVQoLGJ/p9NR6WG8IsipTSKsi8XCzIAwznB+bsZAOstFDJtyoF1vHjpaalV3AeVS0rFGARACSSSR9vXVWuIMFcn/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Does the setting matter for focus?</div>
-                                                <div class="unlocked">27 Jul 2026</div>
+                                                <div>Environment Collector</div>
+                                                <div class="unlocked">28 Jul 2026</div>
                                             </div>
-                                            <div class="description">Changed the environment for the first time</div>
+                                            <div class="description">Obtained 5 environment items</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+4 others...</div>
+                                            <div class="description ellipsis">+7 others...</div>
                                         </div>
                                     </div>
                                 </div>
