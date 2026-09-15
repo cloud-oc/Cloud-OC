@@ -18,10 +18,17 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3
         with:
-          token: NOT_NEEDED
+          token: ${{ github.token }}
+          committer_token: ${{ github.token }}
+          committer_branch: main
+          retries: 3
+          retries_delay: 30
+          retries_output_action: 3
+          retries_delay_output_action: 10
           filename: metrics.plugin.steam.svg
+          output_action: commit
           base: ""
           plugin_steam: yes
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
